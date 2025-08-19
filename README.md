@@ -23,10 +23,6 @@ The app supports **Line, Rectangle, and Circle** drawing with a real-time previe
 
 ---
 
-## 📸 Screenshots
-(Add your screenshots here later)
-
----
 
 ## 🚀 How It Works
 1. **Touch Down** – starting point is saved (`startX`, `startY`).  
