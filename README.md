@@ -36,4 +36,4 @@ The app supports **Line, Rectangle, and Circle** drawing with a real-time previe
 
 ---
 
-## 📂 Project Structure
+
