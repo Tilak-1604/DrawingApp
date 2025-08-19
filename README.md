@@ -24,14 +24,23 @@ The app supports **Line, Rectangle, and Circle** drawing with a real-time previe
 ---
 ## 📸 Screenshots
 
-### Drawing a Circle
-<img src="screenshots/circle.png" width="250"/>
-
 ### Drawing a Rectangle
-<img src="screenshots/rectangle.png" width="250"/>
+<img src="screenshots/circle<img width="510" height="881" alt="Rectang" src="https://github.com/user-attachments/assets/88d8567a-8a11-4ce1-a1ad-46d34366722d" />
+.png" width="250"/>
+
+### Drawing a Circle
+<img src="screenshots/rectangle.png" width="<img width="395" height="828" alt="Circle" src="https://github.com/user-attachments/assets/71fc06e3-a709-4b4a-886a-fa872f0671af" />
+250"/>
+
+### Drawing a Line
+<img width="448" height="887" alt="Line" src="https://github.com/user-attachments/assets/b269f262-2cc1-4205-8d57-1075c80924dd" />
 
 ### Live Preview
-<img src="screenshots/preview.gif" width="250"/>
+<img src="screenshots/preview.gif
+
+https://github.com/user-attachments/assets/7ef1a572-d90b-44c4-a417-83c076b0de9a
+
+" width="250"/>
 
 
 ## 🚀 How It Works
