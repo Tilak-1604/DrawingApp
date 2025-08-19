@@ -22,6 +22,16 @@ The app supports **Line, Rectangle, and Circle** drawing with a real-time previe
 - **UI**: ImageView + Canvas + Bitmap
 
 ---
+## 📸 Screenshots
+
+### Drawing a Circle
+<img src="screenshots/circle.png" width="250"/>
+
+### Drawing a Rectangle
+<img src="screenshots/rectangle.png" width="250"/>
+
+### Live Preview
+<img src="screenshots/preview.gif" width="250"/>
 
 
 ## 🚀 How It Works
